@@ -36,3 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # NextJS-Lottery
 # NextJS-Lottery
 # nextjs-smartcontract-lottery-fcc
+# nextjs-smartcontract-lottery-fcc
